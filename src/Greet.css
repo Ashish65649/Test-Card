@@ -1,0 +1,10 @@
+.greet {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    display: inline;
+    padding: 20px;
+    background-color: cornflowerblue;
+}
