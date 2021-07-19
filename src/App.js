@@ -20,7 +20,9 @@ function MyApp() {
 
   return (
     <>
-      <div className="cls">{arr.map(loop)}</div>
+      <p className="header"> My 5 favourite images </p>
+      <div className="navbar">{arr.map(loop)}</div>
+      <p className="footer"> Made By Aashish </p>
     </>
   );
 }
