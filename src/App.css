@@ -7,7 +7,7 @@
 
 .header {
   font-size: 2rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 10px;
   text-align: center;
   background-color: #e2e2e2;
@@ -17,13 +17,11 @@
 }
 
 .footer {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-transform: capitalize;
   padding: 5px;
   text-align: center;
   background-color: #e2e2e2;
-  /* position: sticky;
-  bottom: 0; */
 }
 
 /* .center {
