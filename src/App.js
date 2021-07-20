@@ -20,8 +20,8 @@ function MyApp() {
 
   return (
     <>
-      <nav className="header"> My 5 favourite images </nav>
-      <div className="navbar">{arr.map(loop)}</div>
+      <nav className="mynav"> My 5 favourite images </nav>
+      <div className="content">{arr.map(loop)}</div>
       <footer className="footer"> Made By Aashish </footer>
     </>
   );

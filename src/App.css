@@ -1,19 +1,20 @@
-.navbar {
+.content {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
-.header {
+.mynav {
   font-size: 2rem;
   text-transform: capitalize;
   padding: 10px;
   text-align: center;
-  background-color: #e2e2e2;
+  background-color: #fff;
   position: sticky;
   top: 0;
   z-index: 1;
+  color: #8a8a8a;
 }
 
 .footer {
@@ -21,7 +22,8 @@
   text-transform: capitalize;
   padding: 5px;
   text-align: center;
-  background-color: #e2e2e2;
+  background-color: #fff;
+  color: #8a8a8a;
 }
 
 /* .center {
