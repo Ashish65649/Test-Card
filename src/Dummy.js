@@ -3,7 +3,7 @@ let arr = [
     srcUrl:
       "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/13/w1200X800/Disha_Patani_PTI_Picture.jpg",
     title: "Ashish Ranjan",
-    text: `Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur`,
+    text: `Lorem ipsum dolor sit amet, consectetur`,
     buttonLink: "https://www.google.com/",
   },
   {
@@ -17,7 +17,7 @@ let arr = [
     srcUrl:
       "https://www.thenews.com.pk/assets/uploads/updates/2021-01-23/778704_8776189_Disha-Tiger2_updates.jpg",
     title: "Animesh Namdeo",
-    text: `Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur`,
+    text: `Lorem ipsum dolor sit amet, consectetur`,
     buttonLink: "https://www.google.com/",
   },
   {
