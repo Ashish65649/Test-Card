@@ -19,7 +19,7 @@ function Profile() {
             architecto Reprehenderit voluptate explicabo voluptatum consectetur,
             asper.
           </p>
-          <div className="flex" style={{ margin: "25px 0" }}>
+          <div className="flex" style={{ margin: "2.5rem 0" }}>
             <div>
               <p className="fls"> Projects </p>
               <p className="count"> 18 </p>
