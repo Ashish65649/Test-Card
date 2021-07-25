@@ -1,5 +1,5 @@
 import React from "react";
-// import "./App.css";
+import "./App.css";
 import Profile from "./Profile";
 
 function MyApp() {
@@ -16,6 +16,11 @@ function MyApp() {
   return (
     <>
       <div className="cls">
+        <Profile />
+        <Profile />
+        <Profile />
+        <Profile />
+        <Profile />
         <Profile />
       </div>
     </>

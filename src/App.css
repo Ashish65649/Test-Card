@@ -1,4 +1,4 @@
-.content {
+/* .content {
   margin: auto;
   width: 90%;
   display: flex;
@@ -31,15 +31,18 @@
   color: #8a8a8a;
   font-family: "Prompt", sans-serif;
   font-family: "Roboto Condensed", sans-serif;
-}
+} */
 
 .cls {
-  width: 100vw;
+  width: 98vw;
   height: 100vh;
-  /* background-color: pink; */
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-.center {
+/* .center {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -68,4 +71,4 @@ button {
 button:hover {
   background-color: #86c5da;
   cursor: pointer;
-}
+} */

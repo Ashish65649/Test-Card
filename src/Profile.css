@@ -3,13 +3,14 @@ html {
 }
 
 .profile-container {
-  margin: 2rem auto;
-  width: 30rem;
+  margin: 2rem;
+  width: 31rem;
   background-color: #fff;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   padding: 1.6rem;
   border-radius: 0.7rem;
+  background-color: pink;
 }
 
 body {
