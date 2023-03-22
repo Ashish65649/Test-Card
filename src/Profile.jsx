@@ -8,7 +8,7 @@ function Profile() {
         <p className="title"> PRO </p>
         <div style={{ textAlign: "center" }}>
           <img
-            src="https://www.biography.com/.image/t_share/MTQyMDA0ODU4NTc5MzMwMTEx/kylie-jenner_gettyimages-602272520jpg.jpg"
+            src="https://hips.hearstapps.com/hmg-prod/images/Kylie-Jenner_GettyImages-602272520.jpg?resize=1200:*"
             alt="disha"
             className="profile-img"
           />
